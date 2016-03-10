@@ -1,0 +1,28 @@
+name: RapporrTest
+favicon: null
+layout_spectrum: 0.1269451768603176
+typography_spectrum: 0.5696802090387791
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6451032503973693
+  lightness: 0.9948440478183329
+  saturation: 0.937398511916399
+  rhythmicContrast: 0.2631178011652082
+purpose: []
